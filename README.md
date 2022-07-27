@@ -4,8 +4,9 @@
 - 🎢 Starting a career on development
 - 🌱 I’m currently learning Java/Python/POO
 - 💻 I’m looking to collaborate/work on web-development
-- ⚡ Technologies: React | Node | Express | MySQL | MongoDB | Docker 
+- ⚡ Principal Technologies: React | Node | Express | MySQL | MongoDB | Docker 
 - 📫 gabrielpriss@hotmail.com 
+- ✨ Portfólio: https://gabrielpriss.github.io/portfolio/
 
 
 <div style="display: inline_block"><br>
