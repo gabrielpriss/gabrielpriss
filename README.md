@@ -1,7 +1,7 @@
 ## Hi there, I'm Gabriel 👋
 
 - 😄 I’m a brazillian full-stack developer
-- 🎢 Starting a career on development
+- 🎢 Starting a career on web development
 - 🌱 I’m currently learning Java/Python/POO
 - 💻 I’m looking to collaborate/work on web-development
 - ⚡ Principal Technologies: React | Node | Express | MySQL | MongoDB | Docker 
