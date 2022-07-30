@@ -6,6 +6,7 @@
 - 💻 I’m looking to collaborate/work on web-development
 - ⚡ Principal Technologies: React | Node | Express | MySQL | MongoDB | Docker 
 - ✨ Portfolio: https://portfolio-gabrielpriss.vercel.app/
+- 🎫 Linkedin : https://www.linkedin.com/in/gabriel-priss/
 - 📫 Contact: gabrielpriss@hotmail.com 
 
 <div style="display: inline_block"><br>
