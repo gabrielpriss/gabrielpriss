@@ -1,10 +1,9 @@
 ## Hi there, I'm Gabriel 👋
 
-- 😄 I’m a brazillian junior full-stack developer
-- 🎢 Starting a career on development
-- 💻 Looking to collaborate/work on web-development
-- 🌱 Currently learning Java/Python/POO
-- ⚡ Principal Technologies: React | Node | Express | MySQL | MongoDB | Docker 
+- 😄 Brazillian junior full-stack developer
+- 💻 Starting a career on development
+- 🌱 Learning Java/POO
+- ⚡ Principal Technologies: Python | React | Node | Express | MySQL | MongoDB | Docker 
 - ✨ Portfolio: https://portfolio-gabrielpriss.vercel.app/
 - 🎫 Linkedin : https://www.linkedin.com/in/gabriel-priss/
 - 📫 Contact: gabrielpriss@hotmail.com 
