@@ -2,8 +2,8 @@
 
 - 😄 Brazillian junior full-stack developer
 - 💻 Starting a career on web development
-- 🌱 Learning Java/POO
 - ⚡ Principal Technologies: Python | React | Node | Express | MySQL | MongoDB | Docker 
+- 🌱 Learning Java/POO
 - ✨ Portfolio: https://portfolio-gabrielpriss.vercel.app/
 - 🎫 Linkedin : https://www.linkedin.com/in/gabriel-priss/
 - 📫 Contact: gabrielpriss@hotmail.com 
