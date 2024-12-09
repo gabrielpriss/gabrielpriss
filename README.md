@@ -1,7 +1,7 @@
 ## Hi there, I'm Gabriel 👋
 
 - 😄 Brazillian Full-stack developer
-- 💻 Currently working on development
+- 💻 Currently working on Marketing
 - ⚡ Principal Technologies: Python | React | Node | Express | MySQL | MongoDB | Docker 
 - 🌱 Learning Java/POO
 - ✨ Portfolio: https://portfolio-gabrielpriss.vercel.app/
